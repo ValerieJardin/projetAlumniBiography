@@ -1,21 +1,21 @@
-#biography_personnal
+.biography_personnal
 {
   float: left;
-  width: 50%;
+  margin-left: : 50%;
   height: 50px;
-  background-color: #;
+  border-style: dashed:#EA4F1F;
 }
-.biography_legend
+#biography_legend
 {
   float: left;
   width: 50%;
   height: 50px;
-  background-color: #;
+  background-color: #EA4F1F;
 }
 .biography_label
 {
   float: left;
-  width: 50%;
-  height: 50px;
-  background-color: #;
+  width: 100%;
+  height: 200px;
+  background-color: #E6E6E6;
 }
