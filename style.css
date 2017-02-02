@@ -17,6 +17,18 @@ color: #282C34;
   font-size: 22px;
 }
 
+.biography_postTitle, #biography_postMainTitle, .biography_postParagraph, #biography_postSkillsList{
+  color: #282C34;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+
+.biography_postTitle{
+>>>>>>> 1a50aab16ce1d10a10d12f4f4b96e2358a4f609e
+  border-bottom: 2px solid #EDF0F1;
+  font-size: 22px;
+}
+
 .material-icons
 {
   color : #EA4F1F;
@@ -57,5 +69,18 @@ color: #282C34;
 
 #biography_identityLogoInformation {
   margin-top: -300px;
->>>>>>> f8a68928b037393c4f1cb918145bfc0d6eb561fa
+
+}
+#biography_postMainTitle {
+  border-bottom: 2px solid #EA4F1F;
+  font-size: 25px;
+}
+
+.biography_postParagraph{
+  margin-left: 10px;
+}
+
+.material-icons{
+  color: #EA4F1F;
+  font-size: 20px;
 }
