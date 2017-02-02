@@ -18,6 +18,20 @@
       <p class="biography_identityInformationP"><strong>@Mail:</strong> jonathan.moroy@gmail.com</p>
     </div>
   </div>
+  <div class="biography_postformation">
+   <h2 id="biography_postMainTitle">Parcours Post-formation</h2>
+   <h3 class="biography_postTitle"><i class="material-icons">insert_drive_file</i>Activités Professionelles</h3>
+   <p class="biography_postParagraph">Actuellement: Développeur Back-End chez Google</p>
+   <h3 class="biography_postTitle"><i class="material-icons">insert_drive_file</i>Compétences</h3>
+   <ul class="biography_postSkillsList">
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>PHP</li>
+     <li>...</li>
+   </ul>
+   <h3 class="biography_postTitle"><i class="material-icons">insert_drive_file</i>Notes</h3>
+   <p class="biography_postParagraph">Espace libre pour que la personne puisse ajouter des notes sur sa page (anecdotes,..)</p>
+ </div>
   <div class="biography_personnal">
     <h2 id="biography_legend">Côté personnel </h2>
     <h3 class="biography_label"><i class="material-icons">insert_drive_file</i>Mes passions</h3>

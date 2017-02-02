@@ -84,3 +84,13 @@ color: #282C34;
   color: #EA4F1F;
   font-size: 20px;
 }
+.biography_postTitle, #biography_postMainTitle, .biography_postParagraph, .biography_postSkillsList, .biography_preTraining, #biography_career_preTraining{
+ color: #282C34 ;
+ font-weight: normal;
+ font-family: sans-serif;
+}
+
+.biography_postTitle{
+ border-bottom: 2px solid #EDF0F1 ;
+ font-size: 22px;
+}
