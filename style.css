@@ -27,8 +27,35 @@ color: #282C34;
   font-size: 15px;
 }
 
-.preferedLinks
-{
+.preferedLinks{
   height: 45px;
   width: 50px;
+}
+#biography_photo {
+  height: 350px;
+  width: 350px;
+  margin-left: 15%;
+}
+
+#biography_title {
+  text-align: center;
+  color: #EA4F1F;
+  font-family: New Century Schoolbook, Palatino, Times New Roman, Times, serif;
+}
+
+.biography_identityInformationP {
+  margin-left: 600px;
+  color: #282C34;
+  font-family: Arial, sans-serif;
+  font-size: 22px;
+}
+
+#biography_identityLogo {
+  margin-left: 600px;
+  height: 100px;
+}
+
+#biography_identityLogoInformation {
+  margin-top: -300px;
+>>>>>>> f8a68928b037393c4f1cb918145bfc0d6eb561fa
 }
