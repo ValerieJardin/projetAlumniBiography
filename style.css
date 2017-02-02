@@ -1,1 +1,16 @@
-style
+.biography_preTraining, #biography_career_preTraining
+{
+font-family: sans-serif;
+font-weight: normal;
+}
+#biography_career_preTraining {
+  border-bottom: 2px solid #EA4F1F;
+font-size: 25px;
+}
+.biography_preTraining {
+  border-bottom: 2px solid #EDF0F1;
+ font-size: 22px;
+}
+.material-icons {
+  color:#EA4F1F;
+}
