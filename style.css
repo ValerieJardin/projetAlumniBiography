@@ -1,9 +1,21 @@
-.biography_personnal
+#biography_personnal
 {
   float: left;
   width: 50%;
   height: 50px;
-  background-color: #338E85;
+  background-color: #;
 }
 .biography_legend
+{
+  float: left;
+  width: 50%;
+  height: 50px;
+  background-color: #;
+}
 .biography_label
+{
+  float: left;
+  width: 50%;
+  height: 50px;
+  background-color: #;
+}
