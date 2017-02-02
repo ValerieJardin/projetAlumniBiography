@@ -4,17 +4,31 @@ font-family: sans-serif;
 font-weight: normal;
 color: #282C34;
 }
+
 #biography_legend
 {
   border-bottom: 2px solid #EA4F1F;
   font-size: 25px;
 }
+
 .biography_label
 {
   border-bottom: 2px solid #EDF0F1;
   font-size: 22px;
 }
+
 .material-icons
 {
   color : #EA4F1F;
+}
+
+.personnal_paragraph
+{
+  font-size: 15px;
+}
+
+.preferedLinks
+{
+  height: 45px;
+  width: 50px;
 }
