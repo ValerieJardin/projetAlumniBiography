@@ -1,21 +1,20 @@
-.biography_personnal
+.biography_personnal, #biography_legend, .biography_label
 {
-  float: left;
-  margin-left: : 50%;
-  height: 50px;
-  border-style: dashed:#EA4F1F;
+font-family: sans-serif;
+font-weight: normal;
+color: #282C34;
 }
 #biography_legend
 {
-  float: left;
-  width: 50%;
-  height: 50px;
-  background-color: #EA4F1F;
+  border-bottom: 2px solid #EA4F1F;
+  font-size: 25px;
 }
 .biography_label
 {
-  float: left;
-  width: 100%;
-  height: 200px;
-  background-color: #E6E6E6;
+  border-bottom: 2px solid #EDF0F1;
+  font-size: 22px;
+}
+.material-icons
+{
+  color : #EA4F1F;
 }
