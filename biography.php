@@ -18,20 +18,40 @@
       <p class="biography_identityInformationP"><strong>@Mail:</strong> jonathan.moroy@gmail.com</p>
     </div>
   </div>
+
+  <h2 id="biography_career_preTraining">Parcours Pré-formation</h2>
+  <h3 class="biography_preTraining"><i class="material-icons">insert_drive_file</i>Parcours</h3>
+  <p>
+    <ul class="biography_postSkillsList">
+      <li>Diplome bep cap action commercial et comptable.</li>
+      <li>J'ai pratiqué différents métiers qui avaient un point commun le physique.</li>
+    </ul>
+  </p>
+  <h3 class="biography_preTraining"><i class="material-icons">insert_drive_file</i>Compétences</h3>
+  <p>
+    <ul class="biography_postSkillsList">
+      <li>Mes compétences ont évolué au fil des métiers occupés, l'adaptation est ma principale.</li>
+      <li>L'envie de comprendre.</li>
+    </ul>
+  </p>
+  <h3 class="biography_preTraining"><i class="material-icons">insert_drive_file</i>Notes</h3>
+  <p class="biography_postParagraph">Un parcours de vie professionel, où j'ai été militaire, carriste, monteur de ventilation, agent de fabrication, monteur de meuble.</p>
+
   <div class="biography_postformation">
-   <h2 id="biography_postMainTitle">Parcours Post-formation</h2>
-   <h3 class="biography_postTitle"><i class="material-icons">insert_drive_file</i>Activités Professionelles</h3>
-   <p class="biography_postParagraph">Actuellement: Développeur Back-End chez Google</p>
-   <h3 class="biography_postTitle"><i class="material-icons">insert_drive_file</i>Compétences</h3>
-   <ul class="biography_postSkillsList">
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>PHP</li>
-     <li>...</li>
-   </ul>
-   <h3 class="biography_postTitle"><i class="material-icons">insert_drive_file</i>Notes</h3>
-   <p class="biography_postParagraph">Espace libre pour que la personne puisse ajouter des notes sur sa page (anecdotes,..)</p>
- </div>
+    <h2 id="biography_postMainTitle">Parcours Post-formation</h2>
+    <h3 class="biography_postTitle"><i class="material-icons">insert_drive_file</i>Activités Professionelles</h3>
+    <p class="biography_postParagraph">Actuellement: Développeur Back-End chez Google</p>
+    <h3 class="biography_postTitle"><i class="material-icons">insert_drive_file</i>Compétences</h3>
+    <ul class="biography_postSkillsList">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>PHP</li>
+      <li>...</li>
+    </ul>
+    <h3 class="biography_postTitle"><i class="material-icons">insert_drive_file</i>Notes</h3>
+    <p class="biography_postParagraph">Espace libre pour que la personne puisse ajouter des notes sur sa page (anecdotes,..)</p>
+  </div>
+
   <div class="biography_personnal">
     <h2 id="biography_legend">Côté personnel </h2>
     <h3 class="biography_label"><i class="material-icons">insert_drive_file</i>Mes passions</h3>
@@ -52,10 +72,11 @@
       </ul>
     </p>
     <h3 class="biography_label"><i class="material-icons">insert_drive_file</i>Mes évènements personnels</h3>
-    <p class="personnal_paragraph">Animation d'un atelier "Initiation web développeur/se" au collège de Noyon.</p>
+    <p class="personnal_paragraph">Animation d'un atelier "Initiation web developpeur/se" au collège de Noyon.</p>
     <h3 class="biography_label"><i class="material-icons">insert_drive_file</i>Mes actualités personnels</h3>
     <p class="personnal_paragraph">Création d'un site d'entreprise.</p>
     <h3 class="biography_label"><i class="material-icons">insert_drive_file</i>Ma famille et plus</h3>
     <p class="personnal_paragraph">Famille recomposée, nous vivons à six dans un Joyeux Bazar ...</p>
+  </div>
 </body>
 </html>
