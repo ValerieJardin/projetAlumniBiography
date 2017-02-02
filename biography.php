@@ -27,9 +27,13 @@
 </ul>
       </p>
       <h3 class="biography_label"><i class="material-icons">insert_drive_file</i>Mes évènements personnels</h3>
-      <p class="personnal_paragraph"></p>
+      <p class="personnal_paragraph">
+Animation d'un atelier "Initiation web developpeur/se" au collège de Noyon.
+      </p>
       <h3 class="biography_label"><i class="material-icons">insert_drive_file</i>Mes actualités personnels</h3>
-      <p class="personnal_paragraph"></p>
+      <p class="personnal_paragraph">
+Création d'un site d'entreprise.
+      </p>
       <h3 class="biography_label"><i class="material-icons">insert_drive_file</i>Ma famille et plus</h3>
       <p class="personnal_paragraph">
         Famille recomposée, nous vivons à six dans un Joyeux Bazar ...
