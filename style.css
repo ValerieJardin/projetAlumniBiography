@@ -1,7 +1,45 @@
+.biography_postTitle, #biography_postMainTitle, .biography_postParagraph, .biography_postSkillsList, .biography_preTraining, #biography_career_preTraining{
+  color: #282C34;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+
+.biography_postTitle{
+  border-bottom: 2px solid #EDF0F1;
+  font-size: 22px;
+}
+
+#biography_postMainTitle{
+  border-bottom: 2px solid #EA4F1F;
+  font-size: 25px;
+}
+
+.biography_personnal, #biography_legend, .biography_label
+{
+  font-family: sans-serif;
+  font-weight: normal;
+  color: #282C34;
+}
+
+#biography_legend
+{
+  border-bottom: 2px solid #EA4F1F;
+  font-size: 25px;
+}
+
+.biography_postParagraph{
+  margin-left: 10px;
+}
+
+.material-icons{
+  color: #EA4F1F;
+  font-size: 20px;
+}
+
 #biography_photo {
   height: 350px;
   width: 350px;
-  margin-left: 15%;
+
 }
 
 #biography_title {
@@ -10,21 +48,52 @@
   font-family: New Century Schoolbook, Palatino, Times New Roman, Times, serif;
 }
 
-#biography_identity {
-}
-
 .biography_identityInformationP {
-  margin-left: 600px;
+
   color: #282C34;
   font-family: Arial, sans-serif;
   font-size: 22px;
 }
 
 #biography_identityLogo {
-  margin-left: 600px;
+
   height: 100px;
 }
 
-#biography_identityLogoInformation {
-  margin-top: -300px;
+.biography_preTraining, #biography_career_preTraining
+{
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+#biography_career_preTraining {
+  border-bottom: 2px solid #EA4F1F;
+  font-size: 25px;
+}
+
+.biography_preTraining {
+  border-bottom: 2px solid #EDF0F1;
+  font-size: 22px;
+}
+
+.biography_label
+{
+  border-bottom: 2px solid #EDF0F1;
+  font-size: 22px;
+}
+
+.personnal_paragraph
+{
+  font-size: 15px;
+}
+
+.preferedLinks
+{
+  height: 45px;
+  width: 50px;
+}
+
+#biography_identity{
+  display: flex;
+  justify-content: space-around;
 }
