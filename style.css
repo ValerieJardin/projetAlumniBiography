@@ -39,7 +39,7 @@
 #biography_photo {
   height: 350px;
   width: 350px;
-  margin-left: 15%;
+
 }
 
 #biography_title {
@@ -49,19 +49,15 @@
 }
 
 .biography_identityInformationP {
-  margin-left: 600px;
+
   color: #282C34;
   font-family: Arial, sans-serif;
   font-size: 22px;
 }
 
 #biography_identityLogo {
-  margin-left: 600px;
-  height: 100px;
-}
 
-#biography_identityLogoInformation {
-  margin-top: -300px;
+  height: 100px;
 }
 
 .biography_preTraining, #biography_career_preTraining
@@ -95,4 +91,9 @@
 {
   height: 45px;
   width: 50px;
+}
+
+#biography_identity{
+  display: flex;
+  justify-content: space-around;
 }
